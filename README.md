@@ -264,4 +264,33 @@ Setelah menyelesaikan semua langkah sebelumnya di Setup Wizard , klik Instal Now
 ![6](https://i.ibb.co/wzj32wv/l3zTxQm.png)
 ![6.1](https://i.ibb.co/tLYLyhJ/Screenshot-2021-03-11-22-50-55.png)
 ![6.3](https://i.ibb.co/QPJfxmb/hahsh.png)
+
 Penginstalan Berhasil Pesan Berhasil akan ditampilkan untuk menunjukkan penginstalan yang berhasil.
+
+# Cara Pemakaian
+[`^ kembali ke atas ^`](#)
+
+Cara pemakaian **Magento2** ini cenderung bersifat *user-friendly* dimana dalam aplikasi ini bersifat dashboarding yang didesain khusus untuk kegiatan *e-commerce* admin. Rincian deatilnya adalah sebagai berikut :
+1. Untuk masuk ke dalam halaman admin toko kita, kita harus login terlebih dahulu dengan memasukan link yang sudah kita buat contohnya yaitu localhost.com/admin_en1brm dan memasukan username dan password yang sudah kita buat sebelumnya.
+![login](https://i.ibb.co/26PSWgb/Screenshot-2021-03-11-23-14-35.png)
+
+2. Setelah itu, kita akan masuk ke halaman admin toko atau Dashboard. Disini kita dapat melihat laporan penjualan toko kita diantaranya **Lifetime Sales**, **Average Order**, dan **Last Order** dan kita juga bisa melihat **Bestsellers**, **Most Viewed Product**, **New Customers** dan **Customers**
+![Dashboard](https://i.ibb.co/nzbBBVZ/Dashboard.png)
+
+![Sales](https://i.ibb.co/VtZ52Dd/Screenshot-2021-03-12-19-08-52.png)
+
+![Catalog](https://i.ibb.co/Ky0Ws2M/Screenshot-2021-03-12-19-09-28.png)
+
+![customers](https://i.ibb.co/12Pc4Bw/Screenshot-2021-03-12-19-10-05.png)
+
+![Marketing](https://i.ibb.co/F8pDDcN/Screenshot-2021-03-12-19-10-46.png)
+
+![Content](https://i.ibb.co/6yPj0dh/Screenshot-2021-03-12-19-11-07.png)
+
+![Reports](https://i.ibb.co/LS0V80P/Screenshot-2021-03-12-19-11-34.png)
+
+![Stores](https://i.ibb.co/pvJCDWh/Screenshot-2021-03-12-19-11-48.png)
+
+![System](https://i.ibb.co/LkHmL5m/Screenshot-2021-03-12-19-12-15.png)
+
+![find](https://i.ibb.co/vcW2MmD/Screenshot-2021-03-12-19-15-22.png)
