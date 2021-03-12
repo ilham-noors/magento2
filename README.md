@@ -1,3 +1,4 @@
+
 <h1 align="center"><img src="https://wearesuperb.com/wp-content/uploads/2015/11/magento2.0.jpg"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Alur Instalasi](#alur-instalasi) | [Kebutuhan Sistem Magento](#kebutuhan-sistem-magento) | [Langkah Instalasi](#langkah-instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
@@ -231,11 +232,36 @@ $ php bin/magento admin:user:create --admin-user=admin123 --admin-password=12356
 Akses ke alamat ini `http://localhost.com/magento2`, Anda akan mendapatkan Magento Setup Wizard sebagai berikut:
 ![magento](https://cdn2.mageplaza.com/media/general2/ySUWqGm.png)
 #### Langkah 7.1: Mulai Menginstal
+
 -   Klik Start Readiness Check. Jika ada kesalahan yang ditampilkan, Anda harus mengatasinya sebelum melanjutkan. Klik Lebih detail jika tersedia untuk melihat informasi lebih lanjut tentang setiap cek.
 ![1](https://i.ibb.co/0Y2RRjr/Screenshot-2021-03-11-22-18-44.png)
-- Klik Next
+- Jika tidak atau aman seperti di gambar Klik Next
 #### Langkah 7.2 Tambahkan Database
 -   Isi informasi database sesuai dengan yang anda buat sebelumnya yaitu pada saat membuat user yaitu dengan nama magento2os dan password yang sesuai, untuk nama database yaitu magento2 sama seperti yang dibuat di MariaDB
 ![2](https://i.ibb.co/GWB4kYn/2.png)
-![3](https://i.ibb.co/cvJfBwK/3.png)
+![2.1](https://i.ibb.co/cvJfBwK/3.png)
 #### Langkah 7.3 Konfigurasi Web
+![3](https://i.ibb.co/xCbpYZ2/web.png)
+-   Masukkan informasi berikut:
+	-   Alamat Toko Anda: [http://localhost.com](http://localhost.com)
+	-   Alamat Admin Magento: Edit URL relatif yang digunakan untuk mengakses Admin Magento. Atau gunakan yang sudah tergenerate otomatis oleh Magento.
+- Kemudian klik Next
+#### Langkah 7.4 Sesuaikan Toko Anda
+![4](https://i.ibb.co/0DgWbkQ/Screenshot-2021-03-11-22-48-38.png)
+-   Dari daftar Zona Waktu Default Toko, klik nama zona waktu toko Anda.
+-   Dari daftar Simpan Mata Uang Default, klik mata uang default untuk digunakan di toko Anda.
+-   Dari daftar Store Default Language, klik bahasa default yang akan digunakan di toko Anda.
+-   Perluas Konfigurasi Modul Lanjutan untuk mengaktifkan atau menonaktifkan modul secara opsional sebelum Anda menginstal perangkat lunak Magento.
+#### Langkah 7.5 Buat Akun Admin
+Sekarang masukkan informasi admin seperti
+-   Username Baru
+-   Email Baru
+-   Password Baru
+-   Konfirmasi Password Baru
+-   Lalu Klik Next
+#### Langkah 7.6 Install
+Setelah menyelesaikan semua langkah sebelumnya di Setup Wizard , klik Instal Now.
+![6](https://i.ibb.co/wzj32wv/l3zTxQm.png)
+![6.1](https://i.ibb.co/tLYLyhJ/Screenshot-2021-03-11-22-50-55.png)
+![6.3](https://i.ibb.co/QPJfxmb/hahsh.png)
+Penginstalan Berhasil Pesan Berhasil akan ditampilkan untuk menunjukkan penginstalan yang berhasil.
