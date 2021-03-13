@@ -81,7 +81,7 @@ Untuk mendeklarasikan konfigurasi situs Apache2 untuk penyimpanan Magento 2, and
 ```
 $ sudo nano /etc/apache2/sites-available/magento2.conf
 ```
-Salin dan tempel konten berikut ke file di atas. Ingat, anda harus mengubah domain.com menjadi localhost.com anda.
+Salin dan tempel konten berikut ke file di atas. Ingat, anda harus mengubah `domain.com` menjadi `localhost.com` anda.
 ```
 <VirtualHost *:80>
 	ServerAdmin admin@localhost.com
@@ -130,7 +130,7 @@ Kemudian simpan file `php.ini`. Setelah itu, anda harus merestart apache2 dan ja
 $ sudo systemctl restart apache2.service
 ```
 ### Langkah 2: Instal Server Database
-Magento lebih memilih server basis data `MariaDB` daripada server basis data `MySQL` default, karena kinerja yang lebih cepat dan lebih baik. Untuk menginstal MariaDB Server dan Klien, jalankan baris perintah ini:
+Magento lebih memilih server basis data MariaDB daripada server basis data MySQL default, karena kinerja yang lebih cepat dan lebih baik. Untuk menginstal MariaDB Server dan Klien, jalankan baris perintah ini:
 ```
 $ sudo apt-get install mariadb-server mariadb-client
 ```
@@ -167,7 +167,7 @@ Kemudian buat panggilan nama pengguna baru: `magento2os`
 ```
 CREATE USER 'magento2os'@'localhost' IDENTIFIED BY 'YOUR_PASSWORD';
 ```
-Berikan pengguna magento2os ke database magento2:
+Berikan pengguna `magento2os` ke database `magento2`:
 ```
 GRANT ALL ON magento2.* TO 'magento2os'@'localhost' IDENTIFIED BY 'YOUR_PASSWORD' WITH GRANT OPTION;
 
@@ -184,7 +184,7 @@ Anda dapat menggunakan baris perintah berikut untuk menginstal Composer
 $ sudo apt install curl
 $ curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 ```
-Karena kita akan menginstall magento versi 2.3.x maka Composer yang digunakan adalah versi 1 dengan baris perintah
+Karena kita akan menginstall `Magento versi 2.3.x` maka harus menggunakan `Composer versi 1` dengan baris perintah
 ```
 $ sudo composer self-update --1
 ```
@@ -203,7 +203,7 @@ Output
 Composer version 1.10.20 2021-01-27 15:41:06
 ```
 ### Langkah 5 : Unduh Magento
-Anda dapat mengunduh dari salah satu sumber daya berikut `ipb.link/magento2` 
+Anda dapat mengunduh dari salah satu sumber daya berikut [magento2-2.3](https://ipb.link/magento2/)
 
 Setelah mengunduh ubah nama folder menjadi `magento2` *seperti pada gambar dibawah* dan Anda harus mengekstrak paket ke `/var/www/html/`
 
@@ -214,7 +214,7 @@ $ sudo apt-get install unzip
 $ cd /Downloads
 $ sudo unzip magento2-2.3.zip -d /var/www/html/
 ```
-Setel izin: Jalankan perintah ini
+Setel izin, jalankan perintah ini
 ```
 sudo chown -R www-data:www-data /var/www/html/magento2/
 sudo chmod -R 755 /var/www/html/magento2/
@@ -224,7 +224,7 @@ sudo chmod -R 755 /var/www/html/magento2/
 $ cd /var/www/html/magento2/
 $ sudo composer install
 ```
-Setelah terinstal magento 2 dengan komposer, untuk menghindari eror ketika setup wizard mengenai admin tambahkan baris perintah berikut :
+Setelah terinstal magento 2 dengan composer, untuk menghindari eror ketika setup wizard mengenai admin tambahkan baris perintah berikut :
 ```
 $ sudo apt-get install php7.1-sodium -y
 $ php bin/magento admin:user:create --admin-user=admin123 --admin-password=1235678 \ --admin-email=hi@mydomian.com --admin-firstname=Admin --admin-lastname=Doe
@@ -233,11 +233,11 @@ Akses ke alamat ini `http://localhost.com/magento2`, Anda akan mendapatkan Magen
 ![magento](https://cdn2.mageplaza.com/media/general2/ySUWqGm.png)
 #### Langkah 7.1: Mulai Menginstal
 
--   Klik Start Readiness Check. Jika ada kesalahan yang ditampilkan, Anda harus mengatasinya sebelum melanjutkan. Klik Lebih detail jika tersedia untuk melihat informasi lebih lanjut tentang setiap cek.
+-   Klik Start Readiness Check. Jika ada kesalahan yang ditampilkan, anda harus mengatasinya sebelum melanjutkan. Klik Lebih detail jika tersedia untuk melihat informasi lebih lanjut tentang setiap cek.
 ![1](https://i.ibb.co/0Y2RRjr/Screenshot-2021-03-11-22-18-44.png)
 - Jika tidak atau aman seperti di gambar Klik Next
 #### Langkah 7.2 Tambahkan Database
--   Isi informasi database sesuai dengan yang anda buat sebelumnya yaitu pada saat membuat user yaitu dengan nama magento2os dan password yang sesuai, untuk nama database yaitu magento2 sama seperti yang dibuat di MariaDB
+-   Isi informasi database sesuai dengan yang anda buat sebelumnya yaitu pada saat membuat user yaitu dengan nama `magento2os` dan password yang sesuai, untuk nama database yaitu `magento2` sama seperti yang dibuat di MariaDB
 ![2](https://i.ibb.co/GWB4kYn/2.png)
 ![2.1](https://i.ibb.co/cvJfBwK/3.png)
 #### Langkah 7.3 Konfigurasi Web
