@@ -273,37 +273,38 @@ Penginstalan Berhasil Pesan Berhasil akan ditampilkan untuk menunjukkan penginst
 
 Cara pemakaian **Magento2** ini cenderung bersifat *user-friendly* dimana dalam aplikasi ini bersifat dashboarding yang didesain khusus untuk kegiatan *e-commerce* admin. Rincian deatilnya adalah sebagai berikut :
 1. Untuk masuk ke dalam halaman admin toko kita, kita harus login terlebih dahulu dengan memasukan link yang sudah kita buat contohnya yaitu localhost.com/admin_en1brm dan memasukan username dan password yang sudah kita buat sebelumnya.
-![login](https://i.ibb.co/26PSWgb/Screenshot-2021-03-11-23-14-35.png)
+<img src="https://i.ibb.co/26PSWgb/Screenshot-2021-03-11-23-14-35.png">
 
 2. Setelah itu, kita akan masuk ke halaman admin toko atau Dashboard. Disini kita dapat melihat laporan penjualan toko kita diantaranya **Lifetime Sales**, **Average Order**, dan **Last Order** dan kita juga bisa melihat **Bestsellers**, **Most Viewed Product**, **New Customers** dan **Customers**
-![Dashboard](https://i.ibb.co/nzbBBVZ/Dashboard.png)
+<img src="https://i.ibb.co/nzbBBVZ/Dashboard.png">
 
-3. Sales ...........................
-![Sales](https://i.ibb.co/CVrYv6H/Sales.png)
+3. Sales
+<img src="https://i.ibb.co/CVrYv6H/Sales.png">
 
-4. Catalog...................................
-![Catalog](https://i.ibb.co/H4jx0xV/catalog.png)
+4. Catalog
+<img src="https://i.ibb.co/H4jx0xV/catalog.png">
 
-5. Customers.......................................
-![customers](https://i.ibb.co/3yJhbXY/customers.png)
+5. Customers
+<img src="https://i.ibb.co/3yJhbXY/customers.png">
 
-6. Marketing..............................
-![Marketing](https://i.ibb.co/QPtyscn/Marketing.png)
+6. Marketing
+<img src="https://i.ibb.co/QPtyscn/Marketing.png">
 
-7. Content...............................
-![Content](https://i.ibb.co/Xy3DB6R/Content.png)
+7. Content
+<img src="https://i.ibb.co/Xy3DB6R/Content.png">
 
-8. Reports..................................
-![Reports](https://i.ibb.co/dgCxMtT/Reports.png)
+8. Reports
+<img src="https://i.ibb.co/dgCxMtT/Reports.png">
 
-9. Stores......................
-![Stores](https://i.ibb.co/dkLZxnB/Stores.png)
+9. Stores
+<img src="https://i.ibb.co/dkLZxnB/Stores.png">
 
-10. System............................
-![System](https://i.ibb.co/NLFXqNk/system.png)
+10. System
+<img src="https://i.ibb.co/NLFXqNk/system.png">
 
-11. Find....................................
-![find](https://i.ibb.co/vcW2MmD/Screenshot-2021-03-12-19-15-22.png)
+11. Find
+<img src="https://i.ibb.co/vcW2MmD/Screenshot-2021-03-12-19-15-22.png">
+
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
