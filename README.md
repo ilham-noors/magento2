@@ -278,31 +278,31 @@ Cara pemakaian **Magento2** ini cenderung bersifat *user-friendly* dimana dalam 
 2. Setelah itu, kita akan masuk ke halaman admin toko atau Dashboard. Disini kita dapat melihat laporan penjualan toko kita diantaranya **Lifetime Sales**, **Average Order**, dan **Last Order** dan kita juga bisa melihat **Bestsellers**, **Most Viewed Product**, **New Customers** dan **Customers**
 ![Dashboard](https://i.ibb.co/nzbBBVZ/Dashboard.png)
 
-3. Sales
+3. Sales ...........................
 ![Sales](https://i.ibb.co/CVrYv6H/Sales.png)
 
-4. Catalog
+4. Catalog...................................
 ![Catalog](https://i.ibb.co/H4jx0xV/catalog.png)
 
-5. Customers
+5. Customers.......................................
 ![customers](https://i.ibb.co/3yJhbXY/customers.png)
 
-6. Marketing
+6. Marketing..............................
 ![Marketing](https://i.ibb.co/QPtyscn/Marketing.png)
 
-7. Content
+7. Content...............................
 ![Content](https://i.ibb.co/Xy3DB6R/Content.png)
 
-8. Reports
+8. Reports..................................
 ![Reports](https://i.ibb.co/dgCxMtT/Reports.png)
 
-9. Stores
+9. Stores......................
 ![Stores](https://i.ibb.co/dkLZxnB/Stores.png)
 
-10. System
+10. System............................
 ![System](https://i.ibb.co/NLFXqNk/system.png)
 
-11. Find
+11. Find....................................
 ![find](https://i.ibb.co/vcW2MmD/Screenshot-2021-03-12-19-15-22.png)
 # Pembahasan
 [`^ kembali ke atas ^`](#)
