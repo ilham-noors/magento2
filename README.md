@@ -1,4 +1,5 @@
 
+
 <h1 align="center"><img src="https://wearesuperb.com/wp-content/uploads/2015/11/magento2.0.jpg"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Alur Instalasi](#alur-instalasi) | [Kebutuhan Sistem Magento](#kebutuhan-sistem-magento) | [Langkah Instalasi](#langkah-instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
@@ -276,21 +277,51 @@ Cara pemakaian **Magento2** ini cenderung bersifat *user-friendly* dimana dalam 
 
 2. Setelah itu, kita akan masuk ke halaman admin toko atau Dashboard. Disini kita dapat melihat laporan penjualan toko kita diantaranya **Lifetime Sales**, **Average Order**, dan **Last Order** dan kita juga bisa melihat **Bestsellers**, **Most Viewed Product**, **New Customers** dan **Customers**
 ![Dashboard](https://i.ibb.co/nzbBBVZ/Dashboard.png)
-
-![Sales](https://i.ibb.co/VtZ52Dd/Screenshot-2021-03-12-19-08-52.png)
-
-![Catalog](https://i.ibb.co/Ky0Ws2M/Screenshot-2021-03-12-19-09-28.png)
-
-![customers](https://i.ibb.co/12Pc4Bw/Screenshot-2021-03-12-19-10-05.png)
-
-![Marketing](https://i.ibb.co/F8pDDcN/Screenshot-2021-03-12-19-10-46.png)
-
-![Content](https://i.ibb.co/6yPj0dh/Screenshot-2021-03-12-19-11-07.png)
-
-![Reports](https://i.ibb.co/LS0V80P/Screenshot-2021-03-12-19-11-34.png)
-
-![Stores](https://i.ibb.co/pvJCDWh/Screenshot-2021-03-12-19-11-48.png)
-
-![System](https://i.ibb.co/LkHmL5m/Screenshot-2021-03-12-19-12-15.png)
-
+3. Sales
+![Sales](https://i.ibb.co/CVrYv6H/Sales.png)
+4. Catalog
+![Catalog](https://i.ibb.co/H4jx0xV/catalog.png)
+5. Customers
+![customers](https://i.ibb.co/3yJhbXY/customers.png)
+6. Marketing
+![Marketing](https://i.ibb.co/QPtyscn/Marketing.png)
+7. Content
+![Content](https://i.ibb.co/Xy3DB6R/Content.png)
+8. Reports
+![Reports](https://i.ibb.co/dgCxMtT/Reports.png)
+9. Stores
+![Stores](https://i.ibb.co/dkLZxnB/Stores.png)
+10. System
+![System](https://i.ibb.co/NLFXqNk/system.png)
+11. Find
 ![find](https://i.ibb.co/vcW2MmD/Screenshot-2021-03-12-19-15-22.png)
+# Pembahasan
+[`^ kembali ke atas ^`](#)
+
+**Prestashop** ditulis dalam bahasa pemrograman `PHP` yang support untuk penggunaan MySQL. Sebagai salah satu CMS yang paling banyak digunakan di dunia, aplikasi ini menawarkan berbagai kelebihan, diantaranya :
+- Aplikasi memiliki panel administrasinya mudah digunakan dan fleksibel, sehingga dapat disesuaikan dengan kebutuhan.
+- Mendukung berbagai layanan pembayaran utama, seperti `PayPal`, `VISA`, `MasterCard`, dan `Maestro`.
+- Diterjemahkan dalam banyak bahasa, termasuk Bahasa Indonesia.
+- Memiliki desain yang *responsive*, sehingga dapat dibuka menggunakan *device* apapun.
+- Memiliki lebih dari tiga ratus fitur untuk memudahkan pengguna.
+- Banyak pengguna yang berkontribusi pada *discussion boards* dan sejenisnya, sehingga masalah yang dihadapi pengguna dapat cepat terselesaikan.
+
+Tentu saja, sebuah aplikasi pasti memiliki kekurangan. Kekurangan yang dimiliki **Prestashop** antara lain :
+- Penggunaan fitur atau modul yang lengkap menyebakan proses loading dari aplikasi ini menjadi sangat lambat
+- Penggunaan *resource* memory aplikasi ini cukup besar, terutama ketika menggunakan fitur atau modul yang lengkap.
+- Sebagian besar modul dan tema yang tersedia tidak gratis.
+
+Jika dibandingkan dengan CMS sejenisnya seperti **Microweber**, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara kedua CMS ini :
+- **Microweber** menyediakan proses design yang fleksibel dengan fitur *Drag and Drop* tanpa batasan, sehingga pengguna bebas mengkreasikan tampilan websitenya. Sedangkan **Prestashop** hanya menyediakan fitur design berupa penggantian template dan logo, adapun template yang tersedia tidak gratis.
+- Modul atau plugin yang tersedia pada **Prestashop** jauh lebih banyak dibandingkan pada **Microweber**.
+- **Prestashop** memiliki pengguna yang jauh lebih banyak daripada **Microweber** yang aktif pada forum-forum diskusi untuk membantu pengguna pemula.
+- **Microweber** lebih ringan daripada **Prestashop** karena modulnya yang sedikit.
+- Proses instalasi **Prestashop** lebih mudah karena berbasis PHP saja, sedangkan **Microweber** menggunakan framework laravel sehingga proses instalasi lebih sulit, terutama dalam hal *dependency*.
+# Referensi
+[`^ kembali ke atas ^`](#)
+
+1. [About PrestaShop](https://www.prestashop.com/) - PrestaShop
+2. [How to Log Into a VPS with PuTTY on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - DigitalOcean
+3. [How to Install PrestaShop on Ubuntu 16.04](http://idroot.net/linux/install-prestashop-ubuntu-16-04/) - idroot
+4. [One Click Install PrestaShop](https://www.prestashop.com/blog/en/how-to-install-prestashop/) - PrestaShop
+5. [PrestaShop Review](http://whichshoppingcart.com/prestashop.html) - whishshoppingcart
