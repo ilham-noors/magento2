@@ -125,6 +125,12 @@ $ sudo apt install php7.2 libapache2-mod-php7.2 php7.2-common php7.2-gmp php7.2-
 $ sudo nano /etc/php/7.2/apache2/php.ini
 ```
 Ubah data berikut:
+
+
+<details><summary><b>Show instructions</b>
+</summary>
+
+
 ```
 file_uploads = On
 allow_url_fopen = On
@@ -133,6 +139,9 @@ memory_limit = 512M
 upload_max_filesize = 128M
 max_execution_time = 3600
 ```
+
+</details>
+
 Kemudian simpan file `php.ini`. Setelah itu, anda harus merestart apache2 dan jalankan perintah ini:
 ```
 $ sudo systemctl restart apache2.service
@@ -181,7 +190,7 @@ GRANT ALL ON magento2.* TO 'magento2os'@'localhost' IDENTIFIED BY 'YOUR_PASSWORD
 
 GRANT ALL PRIVILEGES ON magento2.* TO 'magento2os'@'localhost' WITH GRANT OPTION;
 ```
-Hapus hak istimewa dan keluar
+*Flush* hak istimewa dan keluar
 ```
 FLUSH PRIVILEGES;
 EXIT;
