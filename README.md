@@ -308,30 +308,33 @@ Cara pemakaian **Magento2** ini cenderung bersifat *user-friendly* dimana dalam 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
-**Prestashop** ditulis dalam bahasa pemrograman `PHP` yang support untuk penggunaan MySQL. Sebagai salah satu CMS yang paling banyak digunakan di dunia, aplikasi ini menawarkan berbagai kelebihan, diantaranya :
-- Aplikasi memiliki panel administrasinya mudah digunakan dan fleksibel, sehingga dapat disesuaikan dengan kebutuhan.
-- Mendukung berbagai layanan pembayaran utama, seperti `PayPal`, `VISA`, `MasterCard`, dan `Maestro`.
-- Diterjemahkan dalam banyak bahasa, termasuk Bahasa Indonesia.
-- Memiliki desain yang *responsive*, sehingga dapat dibuka menggunakan *device* apapun.
-- Memiliki lebih dari tiga ratus fitur untuk memudahkan pengguna.
-- Banyak pengguna yang berkontribusi pada *discussion boards* dan sejenisnya, sehingga masalah yang dihadapi pengguna dapat cepat terselesaikan.
+**Magento2** adalah platform built-in `PHP` yang membantu dalam pengembangan website e-Commerce. Terdapat 2 pilihan platform magento yaitu Magento Opensource dan Magento Commerce. Kelebihan dari magento versi open source adalah :
+- Gratis tanpa biaya tambahan 
+- Kaya akan fitur-fitur
+- Sangat skalabilitas
+- Fleksibilitas tinggi dan dapat dikostumisasi sesuka hati
+- Ramah terhadap perangkat mobile
+- Komunitas pengguna yang besar
 
-Tentu saja, sebuah aplikasi pasti memiliki kekurangan. Kekurangan yang dimiliki **Prestashop** antara lain :
-- Penggunaan fitur atau modul yang lengkap menyebakan proses loading dari aplikasi ini menjadi sangat lambat
-- Penggunaan *resource* memory aplikasi ini cukup besar, terutama ketika menggunakan fitur atau modul yang lengkap.
-- Sebagian besar modul dan tema yang tersedia tidak gratis.
+Kekurangan dari **Magento2** ini adalah :
+- Waktu respon lambat
+- Proses kustomisasi dapat lebih lama dibandingkan dengan platform lainnya
+- Platform yang kompleks dan membutuhkan pengembang yang berpengalaman
+- Membutuhkan tempat hosting yang bagus
+- Technical support yang buruk
 
-Jika dibandingkan dengan CMS sejenisnya seperti **Microweber**, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara kedua CMS ini :
-- **Microweber** menyediakan proses design yang fleksibel dengan fitur *Drag and Drop* tanpa batasan, sehingga pengguna bebas mengkreasikan tampilan websitenya. Sedangkan **Prestashop** hanya menyediakan fitur design berupa penggantian template dan logo, adapun template yang tersedia tidak gratis.
-- Modul atau plugin yang tersedia pada **Prestashop** jauh lebih banyak dibandingkan pada **Microweber**.
-- **Prestashop** memiliki pengguna yang jauh lebih banyak daripada **Microweber** yang aktif pada forum-forum diskusi untuk membantu pengguna pemula.
-- **Microweber** lebih ringan daripada **Prestashop** karena modulnya yang sedikit.
-- Proses instalasi **Prestashop** lebih mudah karena berbasis PHP saja, sedangkan **Microweber** menggunakan framework laravel sehingga proses instalasi lebih sulit, terutama dalam hal *dependency*.
+
+Jika dibandingkan dengan platform terbaik menurut techliance, **Woocommerce** perbandingannya adalah sebagai berikut:
+- **Woocommerce** mudah digunakan oleh pemula dalam pengembangan e-commerce sedangkan **Magento2** membutuhkan pengembang berpengalaman dikarenakan sistem yang kompleks
+- Fitur security pada magento lebih baik daripada **Woocommerce**. pada **Magento2** 
+- Kedua platform memang menyediakan opsi plug in dan ekstensi tambahan. Tetapi ekstensi pada **Woocommerce** lebih mudah untuk diinstall dan lebih murah.
+- **Magento2** memiliki banyak fitur out-of-the-box sedangkan **Woocommerce** hanya menyediakan fitur basic.
 # Referensi
 [`^ kembali ke atas ^`](#)
 
-1. [About PrestaShop](https://www.prestashop.com/) - PrestaShop
-2. [How to Log Into a VPS with PuTTY on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - DigitalOcean
-3. [How to Install PrestaShop on Ubuntu 16.04](http://idroot.net/linux/install-prestashop-ubuntu-16-04/) - idroot
-4. [One Click Install PrestaShop](https://www.prestashop.com/blog/en/how-to-install-prestashop/) - PrestaShop
-5. [PrestaShop Review](http://whichshoppingcart.com/prestashop.html) - whishshoppingcart
+1. [About Magento2](https://www.magento.com/) - Magento2
+2. [7 Steps to Install Magento 2 on Ubuntu/Debian](https://www.mageplaza.com/devdocs/how-install-magento-2-ubuntu.html) - MagePlaza
+3. [How to Install Magento in Linux {Step-By-Step Guide}](https://ccbill.com/kb/how-to-install-magento-in-linux) - ccbill
+4. [Installation flow](https://devdocs.magento.com/guides/v2.4/install-gde/install-flow-diagram.html) - Magento2
+5. [Pros and Cons of Magento Ecommerce Platforms](https://elogic.co/blog/pros-and-cons-of-magento-ecommerce-platforms/) - elogic
+6. [Magento vs WooCommerce 2021: Which One Is Better?](https://www.mageplaza.com/blog/magento-2-woocommerce.html) - MagePlaza
