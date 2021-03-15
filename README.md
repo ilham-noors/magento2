@@ -83,6 +83,10 @@ Untuk mendeklarasikan konfigurasi situs Apache2 untuk penyimpanan Magento 2, and
 $ sudo nano /etc/apache2/sites-available/magento2.conf
 ```
 Salin dan tempel konten berikut ke file di atas. Ingat, anda harus mengubah `domain.com` menjadi `localhost.com` anda.
+
+<details><summary><b>Show instructions</b>
+</summary>
+
 ```
 <VirtualHost *:80>
 	ServerAdmin admin@localhost.com
@@ -101,6 +105,9 @@ Salin dan tempel konten berikut ke file di atas. Ingat, anda harus mengubah `dom
 	CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
 ```
+
+</details>
+
 Disini kita menginstal Magento secara lokal. Kemudian anda harus memperbarui file `$ sudo nano /etc/hosts` lalu tambah `127.0.0.1 localhost.com`
 
 Pastikan anda mengaktifkan *mod rewrite* untuk menggunakan situs
