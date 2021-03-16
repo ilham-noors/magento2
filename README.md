@@ -161,6 +161,9 @@ Anda baru saja menginstal server MariaDB, sekarang anda harus menyiapkan server 
 $ sudo mysql_secure_installation
 ```
 Lalu anda akan diminta untuk memilih opsi berikut:
+<details><summary><b>Show instructions</b>
+</summary>
+
 ```
 Enter current password for root (enter for none): Masukan Password root
 Set root password? [Y/n]: n
@@ -169,6 +172,8 @@ Disallow root login remotely? [Y/n]: Y
 Remove test database and access to it? [Y/n]: Y
 Reload privilege tables now? [Y/n]: Y
 ```
+<details>
+
 ### Langkah 3: Buat Pengguna MySQL (Wajib)
 Dari Magento 2.3.x, Magento membutuhkan pengguna unik untuk instalasi Magento, Magento tidak dapat menggunakan pengguna `default: root`.
 
