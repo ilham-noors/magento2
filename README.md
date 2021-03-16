@@ -172,7 +172,7 @@ Disallow root login remotely? [Y/n]: Y
 Remove test database and access to it? [Y/n]: Y
 Reload privilege tables now? [Y/n]: Y
 ```
-<details>
+</details>
 
 ### Langkah 3: Buat Pengguna MySQL (Wajib)
 Dari Magento 2.3.x, Magento membutuhkan pengguna unik untuk instalasi Magento, Magento tidak dapat menggunakan pengguna `default: root`.
