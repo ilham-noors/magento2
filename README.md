@@ -18,8 +18,15 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/ecommerce-magento2-orange">
 	<img src="https://img.shields.io/badge/version-v2.3.x-blue">
-	<img src="https://github.com/thelounge/thelounge/workflows/Build/badge.svg"></a>
-	<img src="https://img.shields.io/badge/part%20of-adobe-red">
+    <a href="https://www.codetriage.com/magento/magento2">
+        <img src="https://www.codetriage.com/magento/magento2/badges/users.svg" alt="Open Source Helpers" />
+    </a>
+    <a href="https://gitter.im/magento/magento2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
+        <img src="https://badges.gitter.im/Join%20Chat.svg" alt="Gitter" />
+    </a>
+    <a href="https://crowdin.com/project/magento-2">
+        <img src="https://d322cqt584bo4o.cloudfront.net/magento-2/localized.svg" alt="Crowdin" />
+    </a>
 </p>
 
 
