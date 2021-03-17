@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://www.solelyweb.com/my-assets/img/services-icons/magento-icon.png" alt="Mahento2" width="300" height="300"></a>
+  <img src="https://www.solelyweb.com/my-assets/img/services-icons/magento-icon.png" alt="Mahento2" width="300" height="300">
   <br>
   Magento2
   <br>
@@ -18,6 +18,13 @@
   <a href="#cara-pemakaian">Cara Pemakaian</a> •
   <a href="#pembahasan">Pembahasan</a> •
   <a href="#referensi">Referensi</a>
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/ecommerce-magento2-orange">
+	<img src="https://img.shields.io/badge/version-v2.3.x-blue">
+	<img src="https://github.com/thelounge/thelounge/workflows/Build/badge.svg"></a>
+	<img src="https://img.shields.io/badge/part%20of-adobe-red">
 </p>
 
 
