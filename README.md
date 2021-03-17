@@ -33,7 +33,7 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-**Magento 2** merupakan sebuah platform CMS atau *Content mManagement System* yang bersifat *Open Source* maupun berbayar dan banyak diaplikasikan untuk membuat website *e-commerce* yang dapat di *custom* sesuai dengan keinginan dan kebutuhan pengguna.  **Magento 2** di rilis pada tahun 2015, rilis nya magento 2 ini karena ada kekurangan dalam magento 1. Untuk menyempurnakan kekurangan magento 1 maka dirilislah magento 2.
+**Magento 2** merupakan sebuah platform CMS atau *Content mManagement System* yang bersifat *Open Source* maupun berbayar dan banyak diaplikasikan untuk membuat website *e-commerce* yang dapat di *custom* sesuai dengan keinginan dan kebutuhan pengguna.  **Magento 2** di rilis pada tahun 2015, rilis nya magento 2 ini karena ada kekurangan dalam magento 1. Pada **Magento 2** menawarkan teknologi baru yang ditambahkan dalam bentuk HTML 5 pra-processor CSS yang direvisi sehingga lebih baik daripada pendahulunya.
 
 # Alur Instalasi
 [`^ kembali ke atas ^`](#)
