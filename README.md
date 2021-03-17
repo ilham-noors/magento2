@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Magento.svg/1280px-Magento.svg.png" alt="Mahento2" width="300">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Magento.svg/1280px-Magento.svg.png" alt="Mahento2" width="500">
 </h1>
 
 <h4 align="center">An Open Source eCommerce .</h4>
