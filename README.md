@@ -1,8 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://www.solelyweb.com/my-assets/img/services-icons/magento-icon.png" alt="Mahento2" width="300" height="300">
-<br>
-  Magento2
+  <img src="https://www.ecommercefuel.com/wp-content/uploads/2018/02/Magento.jpg" alt="Mahento2" width="300" height="300">
 </h1>
 
 <h4 align="center">An Open Source eCommerce .</h4>
