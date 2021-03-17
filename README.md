@@ -239,7 +239,7 @@ Anda dapat mengunduh dari salah satu sumber daya berikut [magento2-2.3](https://
 
 Setelah mengunduh ubah nama folder menjadi `magento2` *seperti pada gambar dibawah* dan Anda harus mengekstrak paket ke `/var/www/html/`
 
-<img src="https://i.ibb.co/nD1FbDh/Screenshot-2021-03-12-13-54-39.png">
+<img src="https://i.ibb.co/nD1FbDh/Screenshot-2021-03-12-13-54-39.png" width="500">
 
 ```
 $ sudo apt-get install unzip
