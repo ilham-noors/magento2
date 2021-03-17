@@ -1,8 +1,7 @@
 <h1 align="center">
 <br>
   <img src="https://www.solelyweb.com/my-assets/img/services-icons/magento-icon.png" alt="Mahento2" width="300" height="300">
-</h1>
-<h1 align="center">
+<br>
   Magento2
 </h1>
 
