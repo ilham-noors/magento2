@@ -3,9 +3,7 @@
 <h1 align="center">
   <br>
   <img src="https://www.solelyweb.com/my-assets/img/services-icons/magento-icon.png" alt="Mahento2" width="300" height="300">
-  <br>
   Magento2
-  <br>
 </h1>
 
 <h4 align="center">An Open Source eCommerce .</h4>
