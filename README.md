@@ -23,15 +23,7 @@
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
-
-<table>
-<tr>
-<td>
 **Magento 2** merupakan sebuah platform CMS atau *Content mManagement System* yang bersifat *Open Source* dan banyak diaplikasikan untuk membuat website *e-commerce* yang dapat di *custom* sesuai dengan keinginan dan kebutuhan pengguna.  **Magento 2** di rilis pada tahun 2015, rilis nya magento 2 ini karena ada kekurangan dalam magento 1. Untuk menyempurnakan kekurangan magento 1 maka dirilislah magento 2.
-</td>
-</tr>
-</table>
-
 # Alur Instalasi
 [`^ kembali ke atas ^`](#)
 <h1 align="center"><img src="https://devdocs.magento.com/common/images/install-diagram-24.svg"></h1>
