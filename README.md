@@ -5,6 +5,15 @@
 [Sekilas Tentang](#sekilas-tentang) | [Alur Instalasi](#alur-instalasi) | [Kebutuhan Sistem Magento](#kebutuhan-sistem-magento) | [Langkah Instalasi](#langkah-instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
+<p align="center">
+  <a href="#sekilas-tentang">Sekilas Tentang</a> •
+  <a href="#alur-instalasi">Alur Instalasi</a> •
+  <a href="#kebutuhan-sistem-magento">Kebutuhan Sistem Magento</a> •
+  <a href="Langkah Instalasi">Langkah Instalasi</a> •
+  <a href="#cara-pemakaian">Cara Pemakaian</a> •
+  <a href="#pembahasan">Pembahasan</a> •
+  <a href="#referensi">Referensi</a>
+</p>
 
 
 # Sekilas Tentang
