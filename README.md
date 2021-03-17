@@ -1,9 +1,14 @@
 
 
-<h1 align="center"><img src="https://wearesuperb.com/wp-content/uploads/2015/11/magento2.0.jpg"></h1>
+<h1 align="center">
+  <br>
+  <img src="https://www.seekpng.com/png/detail/209-2091037_magento-logo-magento-2-logo.png" alt="Mahento2" width="200"></a>
+  <br>
+  Magento2
+  <br>
+</h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Alur Instalasi](#alur-instalasi) | [Kebutuhan Sistem Magento](#kebutuhan-sistem-magento) | [Langkah Instalasi](#langkah-instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+<h4 align="center">An Open Source eCommerce .</h4>
 
 <p align="center">
   <a href="#sekilas-tentang">Sekilas Tentang</a> •
