@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://www.solelyweb.com/my-assets/img/services-icons/magento-icon.png" alt="Mahento2" width="500" height="500"></a>
+  <img src="https://www.solelyweb.com/my-assets/img/services-icons/magento-icon.png" alt="Mahento2" width="300" height="300"></a>
   <br>
   Magento2
   <br>
