@@ -40,11 +40,11 @@
 <h1 align="center"><img src="https://devdocs.magento.com/common/images/install-diagram-24.svg"></h1>
 Diagram tersebut menunjukkan hal berikut:
 
-1. Siapkan lingkungan server .
-Instal perangkat lunak prasyarat, termasuk PHP, Apache, MySQL, dan Elasticsearch.
+1. Siapkan lingkungan server.
+Instal perangkat lunak prasyarat, termasuk `PHP`, `Apache`, `MySQL`, dan `Elasticsearch`.
 
 2. Dapatkan perangkat lunak Magento.
-Dapatkan paket metapackage Magento Open Source atau Magento Commerce Composer untuk mengelola komponen Magento dan dependensinya.
+Dapatkan paket metapackage *Magento Open Source* atau *Magento Commerce Composer* untuk mengelola komponen Magento dan dependensinya.
 
 3. Instal perangkat lunak Magento menggunakan baris perintah.
 Jika langkah tersebut gagal karena perangkat lunak prasyarat tidak disiapkan dengan benar, tinjau Prasyarat tersebut
