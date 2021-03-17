@@ -33,7 +33,7 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-**Magento 2** merupakan sebuah platform CMS atau *Content mManagement System* yang bersifat *Open Source* dan banyak diaplikasikan untuk membuat website *e-commerce* yang dapat di *custom* sesuai dengan keinginan dan kebutuhan pengguna.  **Magento 2** di rilis pada tahun 2015, rilis nya magento 2 ini karena ada kekurangan dalam magento 1. Untuk menyempurnakan kekurangan magento 1 maka dirilislah magento 2.
+**Magento 2** merupakan sebuah platform CMS atau *Content mManagement System* yang bersifat *Open Source* maupun berbayar dan banyak diaplikasikan untuk membuat website *e-commerce* yang dapat di *custom* sesuai dengan keinginan dan kebutuhan pengguna.  **Magento 2** di rilis pada tahun 2015, rilis nya magento 2 ini karena ada kekurangan dalam magento 1. Untuk menyempurnakan kekurangan magento 1 maka dirilislah magento 2.
 
 # Alur Instalasi
 [`^ kembali ke atas ^`](#)
@@ -362,7 +362,7 @@ Kekurangan dari **Magento2** ini adalah :
 - Technical support yang buruk
 
 
-Jika dibandingkan dengan platform terbaik menurut techliance, **Woocommerce** perbandingannya adalah sebagai berikut:
+Jika dibandingkan dengan platform terbaik menurut techliance yaitu **Woocommerce**, perbandingannya adalah sebagai berikut:
 - **Woocommerce** mudah digunakan oleh pemula dalam pengembangan e-commerce sedangkan **Magento2** membutuhkan pengembang berpengalaman dikarenakan sistem yang kompleks
 - Fitur security pada magento lebih baik daripada **Woocommerce**. pada **Magento2** 
 - Kedua platform memang menyediakan opsi plug in dan ekstensi tambahan. Tetapi ekstensi pada **Woocommerce** lebih mudah untuk diinstall dan lebih murah.
