@@ -315,31 +315,31 @@ Cara pemakaian **Magento2** ini cenderung bersifat *user-friendly* dimana dalam 
 <img src="https://i.ibb.co/26PSWgb/Screenshot-2021-03-11-23-14-35.png">
 
 2. Setelah itu, kita akan masuk ke halaman admin toko atau **Dashboard**. Disini kita dapat melihat laporan penjualan toko kita diantaranya **lifetime sales**, **average order**, dan **last order** dan kita juga bisa melihat *bestsellers*, *most viewed product*, *new customers* dan *customers*.
-<img src="https://i.ibb.co/nzbBBVZ/Dashboard.png">
+<img src="https://i.postimg.cc/FzMmWV18/Dashboard.png">
 
 3. Pada bagian samping kiri, terdapat berbagai menu yang dapat kita gunakan. Menu **Order** berguna untuk mengetahui informasi lebih detail tentang penjualan pada website kita. Disini kita dapat mencetak **invoices**, **status shipment**, **credit memos**, **billing agreements**, dan **transactions**.
-<img src="https://i.ibb.co/CVrYv6H/Sales.png">
+<img src="https://i.postimg.cc/k5JCp4XJ/Sales.png">
 
 4. Pada bagian **Catalog** kita bisa menampilkan products yaitu daftar **produk** dan **categories** yaitu kategori dari produk tersebut.
-<img src="https://i.ibb.co/H4jx0xV/catalog.png">
+<img src="https://i.postimg.cc/wvB67BSf/catalog.png">
 
 5. Pada bagian **Customers** kita bisa lihat daftar semua customers pada **all customers**, melihat customer yang sedang aktif pada now online dan bisa melihat grup customer pada **customers groups**.
-<img src="https://i.ibb.co/3yJhbXY/customers.png">
+<img src="https://i.postimg.cc/X75nZmzb/customers.png">
 
 6. Pada bagian **Marketing** disini bisa kita lihat banyak sekali fitur-fitur mengenai marketing yaitu ada bagian **promotions**, **communications**, **seo & search** dan **user content**.
-<img src="https://i.ibb.co/QPtyscn/Marketing.png">
+<img src="https://i.postimg.cc/sxQs4Nf5/Marketing.png">
 
 7. Pada bagian **Content** terdapat beberapa kustomisasi umum mengenai content yang akan di tampilkan di dalam toko contohnya pada **elements** kita bisa mengatur *pages*, *blocks* dan *widgets* sedangkan pada **design** kita bisa mengatur dari *configurations*, *themes*, dan *schedule*.
-<img src="https://i.ibb.co/Xy3DB6R/Content.png">
+<img src="https://i.postimg.cc/JndRJL81/Content.png">
 
 8. Pada bagian **Reports** terdapat beberapa menu mengenai pembuatan laporan dimulai dari **marketing**, **sales**, **customers** dan **business intelligence**.
-<img src="https://i.ibb.co/dgCxMtT/Reports.png">
+<img src="https://i.postimg.cc/fWpwRD5C/Reports.png">
 
 9. Pada bagian **Stores** kita bisa melihat secara umum konfigurasi mengenai toko yaitu pada bagian **settings**, **attributes**, **taxes** dan **currency**. 
-<img src="https://i.ibb.co/dkLZxnB/Stores.png">
+<img src="https://i.postimg.cc/Z5h46HGy/Stores.png">
 
 10. Pada bagian **System** yaitu konfigurasi atau pengaturan secara keseluruhan sepert **data transfer**, **permissions**, **extensions**, **action logs**, **tools** dan **other settings**.
-<img src="https://i.ibb.co/NLFXqNk/system.png">
+<img src="https://i.postimg.cc/cLMZhYWk/system.png">
 
 11. Dan yang terakhir pada bagian **Find Partners & Extensions** adalah kita bisa mencari partners engagments sebagai services magento untuk membantu pedagang lainya dalam mengembankan bisnis. Dan fitur dalam pencarian Ekstensi untuk toko kita.
 <img src="https://i.ibb.co/vcW2MmD/Screenshot-2021-03-12-19-15-22.png">
