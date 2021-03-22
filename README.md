@@ -292,6 +292,7 @@ Akses ke alamat ini `http://localhost.com/magento2`, Anda akan mendapatkan Magen
 -   Dari daftar Store Default Language, klik bahasa default yang akan digunakan di toko Anda.
 -   Perluas Konfigurasi Modul Lanjutan untuk mengaktifkan atau menonaktifkan modul secara opsional sebelum Anda menginstal perangkat lunak Magento.
 #### Langkah 7.5 Buat Akun Admin
+![5](https://i.ibb.co/Y3hGhCG/5.png)
 Sekarang masukkan informasi admin seperti
 -   Username Baru
 -   Email Baru
