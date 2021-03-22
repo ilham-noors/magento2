@@ -132,12 +132,12 @@ Pastikan anda mengaktifkan *mod rewrite* untuk menggunakan situs
 $ sudo a2ensite magento2.conf
 $ sudo a2enmod rewrite
 ```
-#### Langkah 1.3: Instal PHP 7.2 dan ekstensi
+#### Langkah 1.3 Instal PHP 7.2 dan ekstensi
 ```
 $ sudo add-apt-repository ppa:ondrej/php
 $ sudo apt install php7.2 libapache2-mod-php7.2 php7.2-common php7.2-gmp php7.2-curl php7.2-soap php7.2-bcmath php7.2-intl php7.2-mbstring php7.2-xmlrpc php7.2-mcrypt php7.2-mysql php7.2-gd php7.2-xml php7.2-cli php7.2-zip
 ```
-#### Langkah 1.4: Perbarui file php.ini
+#### Langkah 1.4 Perbarui file php.ini
 ```
 $ sudo nano /etc/php/7.2/apache2/php.ini
 ```
@@ -217,7 +217,7 @@ GRANT ALL PRIVILEGES ON magento2.* TO 'magento2os'@'localhost' WITH GRANT OPTION
 FLUSH PRIVILEGES;
 EXIT;
 ```
-### Langkah 4 : Instal Composer
+### Langkah 4: Instal Composer
 Anda dapat menggunakan baris perintah berikut untuk menginstal Composer
 ```
 $ sudo apt install curl
@@ -241,7 +241,7 @@ Output
                     /_/
 Composer version 1.10.20 2021-01-27 15:41:06
 ```
-### Langkah 5 : Unduh Magento
+### Langkah 5: Unduh Magento
 Anda dapat mengunduh dari salah satu sumber daya berikut [magento2-2.3](https://ipb.link/magento2/)
 
 Setelah mengunduh ubah nama folder menjadi `magento2` *seperti pada gambar dibawah* dan Anda harus mengekstrak paket ke `/var/www/html/`
@@ -258,7 +258,7 @@ Setel izin, jalankan perintah ini
 sudo chown -R www-data:www-data /var/www/html/magento2/
 sudo chmod -R 755 /var/www/html/magento2/
 ```
-### Langkah 7: Instal Magento 2
+### Langkah 6: Instal Magento 2
 ```
 $ cd /var/www/html/magento2/
 $ sudo composer install
@@ -270,28 +270,28 @@ $ php bin/magento admin:user:create --admin-user=admin123 --admin-password=12356
 ```
 Akses ke alamat ini `http://localhost.com/magento2`, Anda akan mendapatkan Magento Setup Wizard sebagai berikut:
 ![magento](https://cdn2.mageplaza.com/media/general2/ySUWqGm.png)
-#### Langkah 7.1: Mulai Menginstal
+#### Langkah 6.1 Mulai Menginstal
 
 -   Klik Start Readiness Check. Jika ada kesalahan yang ditampilkan, anda harus mengatasinya sebelum melanjutkan. Klik Lebih detail jika tersedia untuk melihat informasi lebih lanjut tentang setiap cek.
 ![1](https://i.ibb.co/0Y2RRjr/Screenshot-2021-03-11-22-18-44.png)
 - Jika tidak atau aman seperti di gambar Klik Next
-#### Langkah 7.2 Tambahkan Database
+#### Langkah 6.2 Tambahkan Database
 -   Isi informasi database sesuai dengan yang anda buat sebelumnya yaitu pada saat membuat user yaitu dengan nama `magento2os` dan password yang sesuai, untuk nama database yaitu `magento2` sama seperti yang dibuat di MariaDB
 ![2](https://i.ibb.co/GWB4kYn/2.png)
 ![2.1](https://i.ibb.co/cvJfBwK/3.png)
-#### Langkah 7.3 Konfigurasi Web
+#### Langkah 6.3 Konfigurasi Web
 ![3](https://i.ibb.co/xCbpYZ2/web.png)
 -   Masukkan informasi berikut:
 	-   Alamat Toko Anda: [http://localhost.com](http://localhost.com)
 	-   Alamat Admin Magento: Edit URL relatif yang digunakan untuk mengakses Admin Magento. Atau gunakan yang sudah tergenerate otomatis oleh Magento.
 - Kemudian klik Next
-#### Langkah 7.4 Sesuaikan Toko Anda
+#### Langkah 6.4 Sesuaikan Toko Anda
 ![4](https://i.ibb.co/0DgWbkQ/Screenshot-2021-03-11-22-48-38.png)
 -   Dari daftar Zona Waktu Default Toko, klik nama zona waktu toko Anda.
 -   Dari daftar Simpan Mata Uang Default, klik mata uang default untuk digunakan di toko Anda.
 -   Dari daftar Store Default Language, klik bahasa default yang akan digunakan di toko Anda.
 -   Perluas Konfigurasi Modul Lanjutan untuk mengaktifkan atau menonaktifkan modul secara opsional sebelum Anda menginstal perangkat lunak Magento.
-#### Langkah 7.5 Buat Akun Admin
+#### Langkah 6.5 Buat Akun Admin
 ![5](https://i.ibb.co/Y3hGhCG/5.png)
 Sekarang masukkan informasi admin seperti
 -   Username Baru
@@ -299,7 +299,7 @@ Sekarang masukkan informasi admin seperti
 -   Password Baru
 -   Konfirmasi Password Baru
 -   Lalu Klik Next
-#### Langkah 7.6 Install
+#### Langkah 6.6 Install
 Setelah menyelesaikan semua langkah sebelumnya di Setup Wizard , klik Instal Now.
 ![6](https://i.ibb.co/wzj32wv/l3zTxQm.png)
 ![6.1](https://i.ibb.co/tLYLyhJ/Screenshot-2021-03-11-22-50-55.png)
